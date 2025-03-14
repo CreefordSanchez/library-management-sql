@@ -1,16 +1,34 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B0359C-34AF-4017-88DD-5C02D53B500F}|BookVault.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2B0359C-34AF-4017-88DD-5C02D53B500F}|BookVault.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 124,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 122,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T17:39:14.48Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
