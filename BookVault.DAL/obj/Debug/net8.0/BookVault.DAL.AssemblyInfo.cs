@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookVault.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20e4942336555e23343d7e17f840c0b158237278")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e54f75b75fc03c6f15d0c1f53b6f396f1d331d6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookVault.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookVault.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

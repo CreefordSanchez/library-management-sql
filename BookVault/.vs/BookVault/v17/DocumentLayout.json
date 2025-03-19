@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8706638-D122-46BA-B790-E35DAA99FBF2}|..\\BookVault.Model\\BookVault.Model.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.model\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8906BAB9-0D4C-47DF-A8A5-F260924CDF1B}|..\\BookVault.DAL\\BookVault.DAL.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.dal\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8706638-D122-46BA-B790-E35DAA99FBF2}|..\\BookVault.Model\\BookVault.Model.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.model\\eventreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8706638-D122-46BA-B790-E35DAA99FBF2}|..\\BookVault.Model\\BookVault.Model.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8706638-D122-46BA-B790-E35DAA99FBF2}|..\\BookVault.Model\\BookVault.Model.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.model\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8706638-D122-46BA-B790-E35DAA99FBF2}|..\\BookVault.Model\\BookVault.Model.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8906BAB9-0D4C-47DF-A8A5-F260924CDF1B}|..\\BookVault.DAL\\BookVault.DAL.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.dal\\eventreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8906BAB9-0D4C-47DF-A8A5-F260924CDF1B}|..\\BookVault.DAL\\BookVault.DAL.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.dal\\bookreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8906BAB9-0D4C-47DF-A8A5-F260924CDF1B}|..\\BookVault.DAL\\BookVault.DAL.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.dal\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8906BAB9-0D4C-47DF-A8A5-F260924CDF1B}|..\\BookVault.DAL\\BookVault.DAL.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.dal\\bookvaultcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8906BAB9-0D4C-47DF-A8A5-F260924CDF1B}|..\\BookVault.DAL\\BookVault.DAL.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.dal\\checkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69A0890-2F8A-4C85-B336-9E54025A6479}|..\\BookVault.BLL\\BookVault.BLL.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault.bll\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2B0359C-34AF-4017-88DD-5C02D53B500F}|BookVault.csproj|c:\\users\\foxchan\\onedrive\\desktop\\code folder\\back end class\\advance database and orm\\assigntment\\finalproject\\bookvault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2B0359C-34AF-4017-88DD-5C02D53B500F}|BookVault.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -14,11 +50,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 122,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.BLL\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.BLL\\BookService.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.BLL\\BookService.cs",
+              "RelativeToolTip": "..\\BookVault.BLL\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:39:33.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckOutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\CheckOutRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.DAL\\CheckOutRepository.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\CheckOutRepository.cs",
+              "RelativeToolTip": "..\\BookVault.DAL\\CheckOutRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:38:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\EventReviewRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.DAL\\EventReviewRepository.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\EventReviewRepository.cs",
+              "RelativeToolTip": "..\\BookVault.DAL\\EventReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:37:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\BookReviewRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.DAL\\BookReviewRepository.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\BookReviewRepository.cs",
+              "RelativeToolTip": "..\\BookVault.DAL\\BookReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:35:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\EventRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.DAL\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\EventRepository.cs",
+              "RelativeToolTip": "..\\BookVault.DAL\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:34:54.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.DAL\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\BookRepository.cs",
+              "RelativeToolTip": "..\\BookVault.DAL\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:34:29.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookVaultContext.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\BookVaultContext.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.DAL\\BookVaultContext.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.DAL\\BookVaultContext.cs",
+              "RelativeToolTip": "..\\BookVault.DAL\\BookVaultContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:34:12.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\Event.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.Model\\Event.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\Event.cs",
+              "RelativeToolTip": "..\\BookVault.Model\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:31:57.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\CheckOut.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.Model\\CheckOut.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\CheckOut.cs",
+              "RelativeToolTip": "..\\BookVault.Model\\CheckOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:20:35.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventReview.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\EventReview.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.Model\\EventReview.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\EventReview.cs",
+              "RelativeToolTip": "..\\BookVault.Model\\EventReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:20:18.945Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BookReview.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\BookReview.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.Model\\BookReview.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\BookReview.cs",
+              "RelativeToolTip": "..\\BookVault.Model\\BookReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:16:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\Book.cs",
+              "RelativeDocumentMoniker": "..\\BookVault.Model\\Book.cs",
+              "ToolTip": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault.Model\\Book.cs",
+              "RelativeToolTip": "..\\BookVault.Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:45:13.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\BookVault\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -28,14 +228,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-14T17:39:14.48Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
